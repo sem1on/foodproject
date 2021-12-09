@@ -104,4 +104,4 @@ function culc() {
     getDynamicInformation('#age');
 }
 
-module.exports = culc;
+export default culc;
